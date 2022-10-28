@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.exe
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.deps.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\bin\Debug\net5.0\EstruturaDecisao.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\refint\EstruturaDecisao.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\EstruturaDecisao.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\estrutura-decisao\EstruturaDecisao\EstruturaDecisao\obj\Debug\net5.0\ref\EstruturaDecisao.dll

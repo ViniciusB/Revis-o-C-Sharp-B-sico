@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.exe
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.deps.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\bin\Debug\net5.0\Variaveis.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\refint\Variaveis.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\Variaveis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\variaveis\Variaveis\Variaveis\obj\Debug\net5.0\ref\Variaveis.dll

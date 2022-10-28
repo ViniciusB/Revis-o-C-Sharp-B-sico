@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.exe
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.deps.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\refint\OperadoresAritmeticos.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\operadores-aritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\ref\OperadoresAritmeticos.dll

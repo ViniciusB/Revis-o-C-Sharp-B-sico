@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.exe
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.deps.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\bin\Debug\net5.0\ConcatenandoStrings.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\refint\ConcatenandoStrings.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ConcatenandoStrings.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\concatenando-strings\ConcatenandoStrings\ConcatenandoStrings\obj\Debug\net5.0\ref\ConcatenandoStrings.dll

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.exe
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.deps.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\bin\Debug\net5.0\ConvertendoValores.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\refint\ConvertendoValores.dll
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.pdb
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ConvertendoValores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\MeuPrimeiroProjeto\convertendo-valores\ConvertendoValores\ConvertendoValores\obj\Debug\net5.0\ref\ConvertendoValores.dll
